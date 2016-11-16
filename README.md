@@ -1,2 +1,9 @@
 # donders2016
-Testing repository for Donders hackathon
+Testing repository for 2016 Donders hackathon
+
+## Preparation
+### Git
+(Github.io tutorial)[https://try.github.io/levels/1/challenges/1]
+
+### Python 
+(Codecademy Python tutorial)[https://www.codecademy.com/learn/python]
