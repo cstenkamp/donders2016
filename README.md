@@ -7,4 +7,5 @@ Testing repository for 2016 Donders hackathon
 
 ### Python
 *Will probably either be python or javascript as common language, depending on our project
+
 [Codecademy Python tutorial](https://www.codecademy.com/learn/python)
