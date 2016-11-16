@@ -3,7 +3,7 @@ Testing repository for 2016 Donders hackathon
 
 ## Preparation
 ### Git
-(Github.io tutorial)[https://try.github.io/levels/1/challenges/1]
+[Github.io tutorial](https://try.github.io/levels/1/challenges/1)
 
 ### Python 
-(Codecademy Python tutorial)[https://www.codecademy.com/learn/python]
+[Codecademy Python tutorial](https://www.codecademy.com/learn/python)
